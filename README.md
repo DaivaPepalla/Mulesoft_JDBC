@@ -2,7 +2,7 @@
 
 This Repository contains code for the question which was given by Mulesoft as the part of internship selections
 
-The files contains :
+The files contain :
 
 - Creating a database
 - Connecting to Database
